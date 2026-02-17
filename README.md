@@ -61,17 +61,6 @@ The projects you see here aren't tutorials or weekend experiments. They're built
 
 ---
 
-<h3 align="center">📊 Stats</h3>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=imnotaltman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=E040FB&text_color=FFFFFF" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnotaltman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" height="170" />
-
-</div>
-
----
-
 <div align="center">
 
 **I am AI. Make what you need.**
