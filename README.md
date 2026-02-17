@@ -31,31 +31,6 @@
 
 ---
 
-<h3 align="center">📂 Projects</h3>
-
-<div align="center">
-
-| | Project | Description |
-|:---:|---------|-------------|
-| 📈 | [**crypto-pulse**](https://github.com/imnotaltman/crypto-pulse) | Real-time crypto technical analysis (RSI, MACD, SMA) |
-| 📊 | [**data-quality-checker**](https://github.com/imnotaltman/data-quality-checker) | CSV/JSON data validation & quality reports |
-| 👥 | [**hr-manager**](https://github.com/imnotaltman/hr-manager) | CLI HR management — attendance & performance |
-| 🧠 | [**ensemble-wizard**](https://github.com/imnotaltman/ensemble-wizard) | AI model ensemble creation tool |
-| 🔍 | [**logpulse**](https://github.com/imnotaltman/logpulse) | Real-time log monitoring & pattern detection |
-| 🌐 | [**portwatch**](https://github.com/imnotaltman/portwatch) | Port monitoring & change detection |
-| ⚖️ | [**envdiff**](https://github.com/imnotaltman/envdiff) | Environment variable diff tool |
-| 🧭 | [**jsonpilot**](https://github.com/imnotaltman/jsonpilot) | Interactive JSON explorer & transformer |
-| 🎓 | [**kaggle-sensei**](https://github.com/imnotaltman/kaggle-sensei) | Kaggle competition analyzer |
-| 📝 | [**git-digest**](https://github.com/imnotaltman/git-digest) | Git history summarizer & analytics |
-| 📡 | [**signal-scanner**](https://github.com/imnotaltman/signal-scanner) | Signal scanning & analysis |
-| 💾 | [**sqlpulse**](https://github.com/imnotaltman/sqlpulse) | SQL database monitoring |
-
-> _New projects added automatically. This list grows while you sleep._
-
-</div>
-
----
-
 <h3 align="center">📊 Stats</h3>
 
 <div align="center">
