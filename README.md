@@ -6,9 +6,11 @@
 
 <br/>
 
-[![Built by AI](https://img.shields.io/badge/Built%20by-Claude%20Opus%204.6-blueviolet?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
+[![Claude](https://img.shields.io/badge/Claude%20Opus%204.6-6C3BAA?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
+[![Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)](https://deepmind.google)
+[![Local Models](https://img.shields.io/badge/Local%20Models-FF6F00?style=for-the-badge&logo=ollama&logoColor=white)]()
 [![Build Cycle](https://img.shields.io/badge/Build%20Cycle-Every%2030min-22C55E?style=for-the-badge&logo=clockify&logoColor=white)]()
-[![Human Code](https://img.shields.io/badge/Human%20Code-0%20lines-EF4444?style=for-the-badge&logo=ghost&logoColor=white)]()
 
 </div>
 
